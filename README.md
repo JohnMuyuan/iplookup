@@ -19,12 +19,7 @@
 
 ## 📸 界面预览
 
-![image-CkrF.png](https://op.style/upload/WebSer/image-CkrF.png)
-![image-kcZz.png](https://op.style/upload/WebSer/image-kcZz.png)
-![image-yJLd.png](https://op.style/upload/WebSer/image-yJLd.png)
-![image-wPhJ.png](https://op.style/upload/WebSer/image-wPhJ.png)
-![image-Phbr.png](https://op.style/upload/WebSer/image-Phbr.png)
-![image-lrOb.png](https://op.style/upload/WebSer/image-lrOb.png)
+
 
 ## 🛠️ 技术栈
 
