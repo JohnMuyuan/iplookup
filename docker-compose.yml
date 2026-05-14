@@ -1,0 +1,8 @@
+version: '3.8'
+services:
+  ip-query:
+    build: .
+    container_name: ip-query-app
+    ports:
+      - "8000:8000"
+    restart: always
